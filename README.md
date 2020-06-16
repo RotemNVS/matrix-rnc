@@ -1,2 +1,2 @@
 # matrix-rnc
-A Matrix App with a pure JavaScript &amp; CSS which will blow your mind
+A Matrix front end project with a pure JavaScript &amp; CSS which will blow your mind
